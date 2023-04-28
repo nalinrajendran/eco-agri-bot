@@ -15,7 +15,7 @@ st.set_page_config(page_title="🌴 ECO-AGRI BOT ", page_icon=":smile:")
 if not os.path.exists("./tempfolder"):
     os.makedirs("./tempfolder")
 
-pdf_file_path = 'tempfolder/Sure.pdf' 
+pdf_file_path = 'tempfolder/pmt.pdf' 
 
 pdf_file_path2 = 'tempfolder/Chemicals.pdf' 
 pdf_file_path3 = 'tempfolder/agrigpt.pdf' 
