@@ -95,7 +95,7 @@ def PDF_loader(document):
     qa = RetrievalQA.from_chain_type(
         llm=Cohere(
             model="command-xlarge-nightly",
-            temperature=0.80,
+            temperature=0.98,
             cohere_api_key=st.secrets["cohere_apikey"],
         ),
         chain_type="stuff",
