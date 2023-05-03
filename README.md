@@ -5,6 +5,9 @@ Live : https://nalinrajendran-agri-bot-ui2-cci0mq.streamlit.app/
 
 
 
+![Blank diagram](https://user-images.githubusercontent.com/51052614/235840501-b35ab015-9940-4dc4-9742-c0e6c4b3d595.jpeg)
+
+
 
 
 ECO-AGRI BOT
@@ -75,7 +78,7 @@ These future extensions can enhance the functionality of the app and provide mor
 
 REPO LINK:
 
-https://github.com/nalinrajendran/agri-bot
+https://github.com/nalinrajendran/eco-agri-bot
 
-![Uploading image.png…]()
+
 
